@@ -1,0 +1,15 @@
+name: SIWO
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - cmocean
+  - imageio
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - pip
+  - tqdm
+  - xarray
