@@ -1,0 +1,11 @@
+cartopy
+cmocean
+imageio
+jupyterlab
+matplotlib
+numpy
+pandas
+pillow
+pip
+tqdm
+xarray
