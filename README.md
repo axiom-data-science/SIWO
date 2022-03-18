@@ -1,5 +1,5 @@
 # SIWO
-Animation of ice from HYCOM to support Sea Ice for Walrus Outlook
+Animation of ice from HYCOM to support Sea Ice for Walrus Outlook. The animation is built by plotting frames of forecasts made available by [hycom.org](https://www.hycom.org/).
 
 # How to Use
 
