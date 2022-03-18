@@ -3,6 +3,7 @@ cmocean
 imageio
 jupyterlab
 matplotlib
+netCDF4
 numpy
 pandas
 pillow
