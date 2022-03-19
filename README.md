@@ -1,8 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axiom-data-science/SIWO/HEAD?labpath=notebooks%2Fsiwo_ice_animation.ipynb)
-[![DOI](https://zenodo.org/badge/471536766.svg)](https://zenodo.org/badge/latestdoi/471536766)
+[![DOI](https://zenodo.org/badge/471536766.svg)](https://zenodo.org/badge/latestdoi/471536766).
 
 # Sea Ice for Walrus Outlook (SIWO) Animation
-Animation of ice from HYCOM to support Sea Ice for Walrus Outlook. The animation is built by plotting frames of forecasts made available by [hycom.org](https://www.hycom.org/).
+Animation of ice from HYCOM to support Sea Ice for Walrus Outlook. The animation is built by plotting frames of forecasts made available by [hycom.org](https://www.hycom.org/). A post describing this project can be found [on medium](https://medium.com/@willkoeppen/supporting-the-sea-ice-for-walrus-outlook-siwo-with-an-animation-of-sea-ice-movement-from-hycom-3e4625f9821a).
 
 # How to Use
 
